@@ -1,6 +1,6 @@
 # IBM_Capstone_Project
 
-[Just click to see the Full Dashboard] CDE link(https://eu-de.dataplatform.cloud.ibm.com/dashboards/dad72b41-e043-4e18-8d4b-1ba0118dacb6/view/703ede35059e17e969efe6e4079c2e552c622654e6bbd755d2d17b490b697097f06d4796c8264a5bd914506ba7ba460ace)
+[Just click to see the Full Dashboard](https://eu-de.dataplatform.cloud.ibm.com/dashboards/dad72b41-e043-4e18-8d4b-1ba0118dacb6/view/703ede35059e17e969efe6e4079c2e552c622654e6bbd755d2d17b490b697097f06d4796c8264a5bd914506ba7ba460ace)
 
 As part of the capstone project, I assumed the role of a Data Analyst with a global IT and Business Services firm. In this capacity, I analyzed several datasets to identify trends in emerging technologies.
 
